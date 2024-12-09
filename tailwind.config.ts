@@ -59,7 +59,11 @@ const config: Config = {
   				'4': 'hsl(var(--chart-4))',
   				'5': 'hsl(var(--chart-5))'
   			}
-  		}
+  		},
+		fontFamily:{
+			roboto: ["roboto", "sans-serif"],
+			poppins:["Poppins", "sans-serif"],
+		}
   	}
   },
   plugins: [require("tailwindcss-animate")],
