@@ -18,7 +18,7 @@ const Products = () => {
           id: 1,
           title: "Library Stool Chair",
           price: 20,
-          image: "/01.jpg",
+          image: "/20.png",
           isNew: true,
         },
         {
@@ -33,13 +33,13 @@ const Products = () => {
           id: 3,
           title: "Library Stool Chair",
           price: 20,
-          image: "/03.jpg",
+          image: "/5.png",
         },
         {
           id: 4,
           title: "Library Stool Chair",
           price: 20,
-          image: "/04.jpg",
+          image: "/01.png",
         },
         {
             id: 5,
@@ -66,7 +66,7 @@ const Products = () => {
             id: 8,
             title: "Library Stool Chair",
             price: 20,
-            image: "/01.jpg",
+            image: "/20.png",
           },
           {
             id: 9,
@@ -87,7 +87,7 @@ const Products = () => {
               id: 11,
               title: "Library Stool Chair",
               price: 20,
-              image: "/03.jpg",
+              image: "/5.png",
             },
           {
               id: 12,
