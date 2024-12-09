@@ -4,7 +4,7 @@ import Image from "next/image";
 const CompanyLogo = () => {
   return (
     <div className="flex items-center justify-center">
-      <div className="w-[1321px] h-[139px] flex flex-wrap justify-between items-center gap-6 pt-14 px-4">
+      <div className="w-full max-w-screen-xl flex flex-wrap justify-center sm:justify-between items-center gap-6 pt-14 px-4">
         <div>
           <Image
             src="/Logo (3).png"

@@ -68,13 +68,13 @@ const Navbar = () => {
           <Link href={"/"} className="block text-[#636270] text-[14px] hover:text-[#007580] font-medium">
             Home
           </Link>
-          <Link href={"#"} className="block text-[#636270] text-[14px] hover:text-[#007580] font-medium">
+          <Link href={"/product"} className="block text-[#636270] text-[14px] hover:text-[#007580] font-medium">
             Shop
           </Link>
-          <Link href={"#"} className="block text-[#636270] text-[14px] hover:text-[#007580] font-medium">
+          <Link href={"/product"} className="block text-[#636270] text-[14px] hover:text-[#007580] font-medium">
             Product
           </Link>
-          <Link href={"#"} className="block text-[#636270] text-[14px] hover:text-[#007580] font-medium">
+          <Link href={"/product"} className="block text-[#636270] text-[14px] hover:text-[#007580] font-medium">
             Pages
           </Link>
           <Link href={"/about"} className="block text-[#636270] text-[14px] hover:text-[#007580] font-medium">
