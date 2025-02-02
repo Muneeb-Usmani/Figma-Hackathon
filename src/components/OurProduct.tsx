@@ -93,7 +93,7 @@ export default function OurProduct() {
                   Sales
                 </Badge>
               )}
-              <Link href={"components/productDectription/discription"}>
+              <Link href={"product/id"}>
                 <Image
                   src={product.image}
                   alt={product.title}

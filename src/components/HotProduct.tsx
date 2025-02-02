@@ -4,7 +4,7 @@ const GridLayout = () => {
   return (
     <div className="w-full max-w-full px-4 md:px-6 lg:max-w-[1920px] mx-auto">
       <div className="w-full lg:w-[1320px] mx-auto flex flex-col lg:flex-row lg:items-center">
-        <div className="hidden lg:block relative flex items-center">
+        <div className="hidden lg:block relative items-center">
           <p
             className="text-[20px] md:text-[26px] lg:text-[34px] leading-tight uppercase tracking-normal whitespace-nowrap font-roboto"
             style={{
